@@ -55,7 +55,8 @@
             真正例率、假正率率、ROC曲线
             
       典型智能模型学习框架
-            图
+      
+![图片](https://github.com/KDDGit/AI/blob/master/image/%E5%85%B8%E5%9E%8B%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B%E6%A1%86%E6%9E%B6.png)
             
       深度学习
             基础：神经网络
